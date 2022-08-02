@@ -1661,24 +1661,3 @@ r3=plotter.experiment8(res_2,flag=False)
 r3=plotter.experiment8(res,flag=True)
 
 
-# plotter.experiment6()
-# plotter.experiment6(flag=True)
-#
-# # plotter.experiment7(res_2)
-# # plotter.experiment1()
-# r1=plotter.experiment8(res_2)
-# plotter.process_results(r1,1)
-# plotter.process_results(r2,2)
-# plotter.process_results(r5,5)
-
-# paths=["IS_influence_cancer_domain_8.37949412479321_0.05_l1_pdis_1","IS_influence_cancer_domain_8.480568383747373_0.05_l1_is_1"
-#        ,"IS_influence_hiv_domain_2.868215349935158_0.05_l1_pdis_1","IS_influence_custom_5.372645866255674_0.05_l1_cpdis_1",
-#        "IS_influence_cartpole_domain_2.0895789901467983_0.05_l1_is_1",
-#        "IS_influence_mountaincar_domain_5.2232276078656215_0.1_l1_pdis_1"]
-
-# paths=["IS_influence_cancer_domain_8.37949412479321_0.05_l1_pdis_1","IS_influence_cartpole_domain_2.0952675249454398_0.05_l1_pdis_1",
-#        "IS_influence_custom_5.3820444277747495_0.05_l1_pdis_1",
-#        "IS_influence_hiv_domain_2.868215349935158_0.05_l1_pdis_1",
-#        "IS_influence_mountaincar_domain_5.2232276078656215_0.1_l1_pdis_1"]
-# plotter.experiment9(paths)
-# plotter.plot_transitions(path="data/FQE_influence_custom_3.43_0.1_l1_is_1")
